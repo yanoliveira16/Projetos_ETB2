@@ -1,0 +1,20 @@
+ul{
+	list-style:none;
+	width: 250px;
+	text-align: center;
+}
+
+li{
+	margin:5px;
+}
+a{
+	display: block;
+	text-decoration: none;
+	background-color: gray;
+	color: black;
+}
+
+a:hover{
+	background-color: black;
+	color:white;
+}

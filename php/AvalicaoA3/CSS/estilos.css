@@ -1,0 +1,122 @@
+
+
+/*GERAL
+*/
+
+body{
+	font-family: "Open Sans", Helvetica, Arial, Sans-serif;
+	color:black;
+	margin: auto;
+	padding: auto;
+}
+
+
+}
+h2,h3{
+    margin:auto;
+	font-family: Arial;
+	font-weight: 700;
+	color:black;
+
+}
+
+/* navegação*/
+
+nav{
+	background-color:black; 
+	height: 15vh;
+    
+
+
+}
+ nav ul  {
+ 	list-style: none;
+	background-color:black;
+	text-align: right;
+}
+
+ nav ul li {
+    display: inline-block;
+    margin: auto;
+    padding: auto;
+ 	
+
+
+   }
+ nav ul li a {
+ 	text-decoration: none;
+ 	font-weight: 700;
+ 	color: white;
+ 	margin:10px 20px;
+ 	
+}
+
+
+ nav h1{
+ 	display: block;
+ 	font-weight: 700;
+ 	font-size: 30px; 
+ 	padding: 1px 20px;
+ 	color: white;
+ 	text-align: left;
+ 	
+ }
+ #p {
+ 	display: inline-block;
+ 	color:white;
+ 	margin: 0px 0px;
+ 	padding: 0px 50px;
+
+ }
+ /*cabeçalho*/
+
+ section ul {
+ 	color:black;
+ 	margin:50px 200px;
+ 	text-align: left;
+ 	height: 20vh;
+ }
+
+#irra{
+    display:block;
+	margin: 70px 220px;
+
+}
+
+#alo{
+	display: inline-block;
+	margin: 0px 220px;
+
+}
+
+
+#ul {
+	display: inline-block;
+	margin: 0px 0px;
+	padding: 0px 0px;
+
+}
+
+/*rodape*/
+
+footer{
+	background-color: black;
+	margin: 100px 0px;
+	padding:10px;
+	padding: auto;
+	
+
+
+}
+
+#p1{
+	display: inline;
+	color:white;
+
+}
+#p2{
+	float:right;
+	color:white;
+}
+
+ 

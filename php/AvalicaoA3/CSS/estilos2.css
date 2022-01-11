@@ -1,0 +1,161 @@
+*{
+margin:0;
+padding:0;
+background:black;
+}
+#navleft{
+width:200px;
+height:800px;
+background:black;
+float:left;
+}
+ul li{
+list-style:none;
+margin-left:0px;
+padding:55.4px 50px;
+border-bottom:2px solid #fff;
+font:bold 15pt Tahoma;
+}
+ul li a{
+color:#fff;
+text-decoration:none;
+display:block;
+}
+
+h1{
+	font:bold 18pt Tahoma;
+	color:black;
+	text-align:center;
+
+	
+}
+
+.Cabeçalho{
+background-color:black;
+margin-bottom:10px;
+}
+
+#imagem1{
+	margin:auto;
+	padding:auto;
+	width:1345px;
+	height:500px;
+	
+}
+
+
+#imagem2{
+	margin:auto;
+	padding-left:auto;
+	width:1135px;
+	height:600px;
+	margin-bottom:10px;
+}
+#imagem3{
+	margin:auto;
+	padding-left:auto;
+	padding-top:20px;
+	width:1135px;
+	height:600px;
+	margin-bottom:10px;
+	
+}
+#imagem4{
+	margin:auto;
+	padding-left:auto;
+	padding-top:20px;
+	width:1135px;
+	height:200px;
+	margin-bottom:10px;
+	
+}
+#imagem5{
+	margin:auto;
+	padding-left:auto;
+	padding-top:20px;
+	width:1135px;
+	height:500px;
+	margin-bottom:10px;
+}
+
+
+}
+	
+
+
+h2{
+	font:18pt Tahoma;
+	color:white;
+	text-align:center;
+	margin:10px;
+}
+h3{
+	font:18pt Tahoma;
+	color:white;
+	text-align:center;
+	margin:10px;
+	padding-top:10px;
+	
+	
+}
+
+.rodape h1 {
+	margin:auto;
+	padding-top:50px;
+	width:1345px;
+	height:150px;
+	background-color:black;
+	font:14pt Tahoma;
+	text-align:center;
+	padding:auto;
+	margin:auto;
+	float:left;
+	border:2px solid white;
+	
+}
+.produtos h1{
+	font: 20pt Tahoma;
+	color:white;
+	text-align:left;
+	
+	
+	
+}
+#formulario{
+	color:white;
+	text-align:left;
+	font:20pt Tahoma;
+	
+}
+#escreva{
+	color:white;
+	font:20pt Tahoma;
+	
+}
+
+#coluna{
+	display: inline-block;
+    height: 800px;
+    width: 79%;
+    margin-top: 65px;
+    margin-bottom: 5px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    float: right;
+	text-align:justify ;
+	font-family:'arial' ;
+	
+ }
+ .option{
+	color:white;
+ }
+.contato{
+	text-align:left;
+	
+} 
+.butao{
+padding:1px 1px;
+float:left;
+	
+	
+}

@@ -1,0 +1,22 @@
+#todo{
+ width: 762px;
+ margin: auto;
+ 
+}
+#banner{
+	border: solid 3px black;
+	width: 755px;
+	height: 80px;
+}
+#menu{
+	border: solid 3px black;
+	width: 200px;
+	height: 400px;
+	float: left;
+}
+#conteudo_da_pagina{
+	border: solid 3px black;
+	width: 549px;
+	height: 400px;
+	float: left;
+}
